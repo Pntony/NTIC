@@ -28,6 +28,6 @@ Cependant, le vrai point de rupture eut lieu en 1997, avec la défaite de Garry 
 
 ## Annexe
 
-[Document sur la méthode de veille](https://google.com)
+[Document sur la méthode de veille](https://raw.githubusercontent.com/Pntony/NTIC/gh-pages/PARODI_Rapport_methodologique.pdf)
 
 ### Sources
